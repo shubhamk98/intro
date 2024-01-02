@@ -15,7 +15,7 @@ A passionate MERN Stack Web Developer.
 
  <h1 align="left">Languages and Tools:</h1>
     <p align="left" style="display: flex; gap: 20px;">
-        <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-512.png" alt="NextJS" width="40"
+        <img src="https://th.bing.com/th/id/R.0bf6a51e62993abc48f6e5b62e00dbc7?rik=8xhpxj2ohbG%2frA&pid=ImgRaw&r=0" alt="NextJS" width="60"
             height="40">
         <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="react"
             width="40" height="40">
