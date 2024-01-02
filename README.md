@@ -13,7 +13,7 @@ A passionate MERN Stack Web Developer.
 
 ## 🛠 Skills and Tools
 
- <h1 align="left">Languages and Tools:</h1>
+ <h1 align="left"></h1>
     <p align="left" style="display: flex; gap: 20px;">
         <img src="https://th.bing.com/th/id/R.6338e3b1fefffb51443e613edd2a6b19?rik=Iw%2fLOWo8fbC2Ag&pid=ImgRaw&r=0" alt="NextJS" width="40"
             height="40">
