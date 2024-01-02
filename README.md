@@ -15,11 +15,11 @@ A passionate MERN Stack Web Developer.
 
  <h1 align="left">Languages and Tools:</h1>
     <p align="left" style="display: flex; gap: 20px;">
-        <img src="https://th.bing.com/th/id/R.0bf6a51e62993abc48f6e5b62e00dbc7?rik=8xhpxj2ohbG%2frA&pid=ImgRaw&r=0" alt="NextJS" width="60"
+        <img src="https://th.bing.com/th/id/R.6338e3b1fefffb51443e613edd2a6b19?rik=Iw%2fLOWo8fbC2Ag&pid=ImgRaw&r=0" alt="NextJS" width="40"
             height="40">
         <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="react"
             width="40" height="40">
-        <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-typescript-512.png" alt="TypeScript"
+        <img src="https://th.bing.com/th/id/R.86a627bd7a966a122f44164ab2b445e7?rik=YChLImhMC9h%2fyw&pid=ImgRaw&r=0" alt="TypeScript"
             width="40" height="40">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" alt="Node"
             width="40" height="40">
@@ -33,6 +33,6 @@ A passionate MERN Stack Web Developer.
             alt="cplusplus" width="40" height="40" />
         <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma"
             width="40" height="40">
-        <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-2/24/vscode-fill-512.png" alt="Vscode" width="40"
+        <img src="https://th.bing.com/th/id/R.01d46d43618345a675b4348124ad403b?rik=NE%2fZLSJklPkUOA&pid=ImgRaw&r=0" alt="Vscode" width="40"
             height="40">
     </p>
