@@ -3,7 +3,7 @@
 
 
 
-A passionate MERN Stack Web Developer.
+A passionate Full Stack Web Developer.
 
 
 ## 🔗 Links
